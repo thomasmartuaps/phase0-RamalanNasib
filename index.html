@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Fortune Teller AI | Final Project Phase 0</title>
+        <link rel="stylesheet" type="text/css" href="./style/style.css">
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=Molle:400i&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+            </style> 
+        
+    </head>
+    <body>
+        <h1 id = "title">Try our fortune teller!</h1>
+        <div id = "form">
+            <!-- <form id = "fortune" method = "GET"> -->
+            <p class = "subtitle">Input your name here:</p>
+            <input type= "text" id ="name">
+            <br>
+            <br>
+            <p class = "subtitle">Your birthdate here:</p>
+            <!-- <form id="month"> -->
+            <label for = "month" >MM:</label>
+            <input type="number" id= "month" min = "1" max = "12">
+            <!-- </form> -->
+            <label for = "day">DD:</label>
+            <input type="number" id = "day" min = "1" max = "31">
+            <label for = "year" >YYYY:</label>
+            <input type="number" id = "year" min = "1900" max = "2020">
+            <br>
+            <br>
+            <br>
+            <p id = "btn" onclick="moneyDesc(this)">Try your luck!</p>
+            <!-- </form> -->
+        </div>
+        <br>
+        <br>
+        <div id = "result">Waiting for result.</div>
+        <script src="script.js"></script>
+    </body>
+</html>
