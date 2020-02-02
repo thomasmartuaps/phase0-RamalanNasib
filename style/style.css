@@ -34,14 +34,14 @@ h1 {
     color: #ffd524;
 }
 #btn {
-    background-color: #white;
+    background-color: #ffffff;
     color: #290849;
     margin: 10px 12vw;
     width: 15vw;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 #btn:hover {
-    background-color: #grey;
+    background-color: #f0f0f0;
     
 }
 
