@@ -21,12 +21,12 @@ h1 {
     text-align: center;
 }
 #title {
-    font-family: 'Molle', cursive;
+    font-family: 'Fredoka One', cursive;
     color: #a53143;
     font-size: 62px;
     text-shadow: 
-    4px 4px 0px #f2f7a3, 
-    7px 7px 0px rgba(13, 3, 66, 0.39);
+    4px 4px 0px #d5d5d5, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
 }
 .subtitle {
     font-family: 'Fredoka One', cursive;
