@@ -36,6 +36,7 @@ h1 {
     background-color: #e45d3e;
     margin: 10px 12vw;
     width: 15vw;
+    border-radius: 5px;
 }
 #btn:hover {
     background-color: #a03a23;
