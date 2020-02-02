@@ -4,7 +4,7 @@ body {
     font-weight: bold;
 }
 #form {
-    background-color: #290849;
+    background-color: #5e3b59;
     text-align: center;
     color: #ddca7e;
     margin: 50px 27vw;
@@ -46,7 +46,7 @@ h1 {
 }
 
 #result {
-    background-color: #290849;
+    background-color: #5e3b59;
     text-align: center;
 /*     color: white; */
     margin: 50px 27vw;
