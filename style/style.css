@@ -13,7 +13,7 @@ body {
     justify-content: center;
     /* border-style: solid; */
     border-color: #272727;
-/*     border-radius: 10px; */
+    border-radius: 5px;
     border-width: px;
     
 }
@@ -30,7 +30,7 @@ h1 {
 }
 .subtitle {
 /*     font-family: 'Fredoka One', cursive; */
-    font-weight: bold;
+    font-weight: 1000;
     color: #ddca7e;
 }
 #btn {
