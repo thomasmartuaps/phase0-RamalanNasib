@@ -41,14 +41,14 @@ h1 {
     border-radius: 10px;
 }
 #btn:hover {
-    background-color: #f0f0f0;
+    background-color: #cdcdcd;
     
 }
 
 #result {
     background-color: #290849;
     text-align: center;
-    color: white;
+/*     color: white; */
     margin: 50px 27vw;
     margin-top: 0px;
     padding: 26px;
