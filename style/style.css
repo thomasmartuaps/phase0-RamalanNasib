@@ -1,5 +1,5 @@
 body {
-    background-color: #0b111d;
+    background-color: white;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
@@ -22,7 +22,7 @@ h1 {
 }
 #title {
     font-family: 'Bree Serif', serif;
-    color: #ffffff;
+    color: #0b111d;
     font-size: 62px;
 /*     text-shadow: 
     4px 4px 0px #d5d5d5, 
