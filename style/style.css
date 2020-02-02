@@ -1,5 +1,5 @@
 body {
-    background-color: #2e4044;
+    background-color: #0b111d;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
@@ -24,9 +24,9 @@ h1 {
     font-family: 'Bree Serif', serif;
     color: #white;
     font-size: 62px;
-    text-shadow: 
+/*     text-shadow: 
     4px 4px 0px #d5d5d5, 
-    7px 7px 0px rgba(0, 0, 0, 0.2);
+    7px 7px 0px rgba(0, 0, 0, 0.2); */
 }
 .subtitle {
 /*     font-family: 'Fredoka One', cursive; */
