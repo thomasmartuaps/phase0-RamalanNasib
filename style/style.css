@@ -4,9 +4,9 @@ body {
     font-weight: bold;
 }
 #form {
-    background-color: #5e3b59;
+    background-color: #290849;
     text-align: center;
-    color: #ddca7e;
+    color: white;
     margin: 50px 27vw;
     padding: 26px;
     width: 40vw;
@@ -22,7 +22,7 @@ h1 {
 }
 #title {
     font-family: 'Bree Serif', serif;
-    color: white;
+    color: #ddca7e;
     font-size: 62px;
 /*     text-shadow: 
     4px 4px 0px #d5d5d5, 
@@ -46,7 +46,7 @@ h1 {
 }
 
 #result {
-    background-color: #5e3b59;
+    background-color: #290849;
     text-align: center;
     color: white;
     margin: 50px 27vw;
