@@ -4,7 +4,7 @@ body {
     font-weight: bold;
 }
 #form {
-    background-color: #290849;
+    background-color: #0d3127;
     text-align: center;
     color: white;
     margin: 50px 27vw;
@@ -35,7 +35,7 @@ h1 {
 }
 #btn {
     background-color: #ffffff;
-    color: #290849;
+    color: #0d3127;
     margin: 10px 12vw;
     width: 15vw;
     border-radius: 10px;
@@ -46,7 +46,7 @@ h1 {
 }
 
 #result {
-    background-color: #290849;
+    background-color: #0d3127;
     text-align: center;
     color: white;
     margin: 50px 27vw;
