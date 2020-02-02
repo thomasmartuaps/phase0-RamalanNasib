@@ -4,7 +4,7 @@ body {
     font-weight: bold;
 }
 #form {
-    background-color: #1c244f;
+    background-color: #290849;
     text-align: center;
     color: white;
     margin: 50px 27vw;
@@ -13,7 +13,7 @@ body {
     justify-content: center;
     /* border-style: solid; */
     border-color: #272727;
-    border-radius: 10px;
+/*     border-radius: 10px; */
     border-width: px;
     
 }
@@ -21,8 +21,8 @@ h1 {
     text-align: center;
 }
 #title {
-    font-family: 'Permanent Marker', cursive;
-    color: #a53143;
+    font-family: 'Bree Serif', serif;
+    color: #290849;
     font-size: 62px;
     text-shadow: 
     4px 4px 0px #d5d5d5, 
@@ -31,20 +31,22 @@ h1 {
 .subtitle {
     font-family: 'Fredoka One', cursive;
     font-weight: 200;
+    color: #ffd524;
 }
 #btn {
-    background-color: #e45d3e;
+    background-color: #white;
+    color: #290849;
     margin: 10px 12vw;
     width: 15vw;
-/*     border-radius: 5px; */
+    border-radius: 15px;
 }
 #btn:hover {
-    background-color: #a03a23;
+    background-color: #grey;
     
 }
 
 #result {
-    background-color: #1c244f;
+    background-color: #290849;
     text-align: center;
     color: white;
     margin: 50px 27vw;
@@ -54,6 +56,6 @@ h1 {
     justify-content: center;
     /* border-style: solid; */
     border-color: #272727;
-    border-radius: 10px;
+/*     border-radius: 10px; */
     border-width: px;
 }
